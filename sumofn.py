@@ -1,4 +1,4 @@
-a=input("Enter the number of natural numbers to sum")
+ a=input("Enter the number of natural numbers to sum")
     if a < 0:
          print("Enter a positive number")
     else:
@@ -6,4 +6,4 @@ a=input("Enter the number of natural numbers to sum")
     while(a > 0):
        s=s+a
        a=a-1
-    print"The sum is",s
+       print"The sum is",s
