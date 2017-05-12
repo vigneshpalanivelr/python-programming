@@ -1,3 +1,7 @@
-b=input("Enter string")
-    a=b[::-1]
-    print a
+    b=input("Enter string")
+    if(b>0):
+        a=b[::-1]
+        print a
+    else:
+        print"Positive input only"
+
