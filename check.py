@@ -1,5 +1,6 @@
 a=input("")
-if(a<2017):
+b=2017
+if(a<b):
 print("no")
 else:
 print("yes")
